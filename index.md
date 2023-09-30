@@ -7,3 +7,5 @@
 
 
 i have made changes to file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
